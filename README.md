@@ -95,6 +95,6 @@ fn main() {
 
 ## 📬 联系方式
 
-项目维护者 - [@your_username](https://github.com/WangWindow)
+项目维护者 - [@WangWindow](https://github.com/WangWindow)
 
-项目链接: [https://github.com/yourusername/llm-rs](https://github.com/WangWindow/llm-rs)
+项目链接: [https://github.com/WangWindow/llm-rs](https://github.com/WangWindow/llm-rs)

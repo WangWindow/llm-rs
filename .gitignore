@@ -1,1 +1,7 @@
 /target
+/venv
+/temp
+
+.vscode/
+.idea/
+.vs/
